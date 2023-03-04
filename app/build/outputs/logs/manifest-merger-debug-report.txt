@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:2:1-45:12
-MERGED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-33:12
+ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-33:12
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Administrator\.gradle\caches\transforms-3\914fc250e4d274ee911c639ce2f41aa0\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Administrator\.gradle\caches\transforms-3\65064e1c7182490c1d150b9b76a560b7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [com.airbnb.android:lottie:4.2.2] C:\Users\Administrator\.gradle\caches\transforms-3\838f3967b8d2703fee8ecdbde32f2237\transformed\jetified-lottie-4.2.2\AndroidManifest.xml:2:1-11:12
@@ -128,29 +128,29 @@ MERGED from [com.github.AnchorFree.hydra-vpn-android:aar-hydra:d8dd1f8] C:\Users
 MERGED from [com.github.AnchorFree.hydra-vpn-android:openvpn-aar:d8dd1f8] C:\Users\Administrator\.gradle\caches\transforms-3\5e037e35f93f150b6c3c892826cb20fd\transformed\jetified-openvpn-aar-d8dd1f8\AndroidManifest.xml:2:1-12:12
 MERGED from [com.github.AnchorFreePartner:ReLinker:1.3.2] C:\Users\Administrator\.gradle\caches\transforms-3\d2d3b46d63f3ed1bbac2a938d9bca93d\transformed\jetified-ReLinker-1.3.2\AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\Administrator\.gradle\caches\transforms-3\20479aae60f101436cca46bf8924b41b\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:2:1-13:12
-INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:2:1-45:12
 	package
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:4:5-37
-		INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:2:1-45:12
-		INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:2:1-45:12
-		INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:6:5-67
-MERGED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
-MERGED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
+ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-67
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8cc576fbd60425527e65fde914453daf\transformed\jetified-sdk-core-4.0.0\AndroidManifest.xml:11:5-67
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8cc576fbd60425527e65fde914453daf\transformed\jetified-sdk-core-4.0.0\AndroidManifest.xml:11:5-67
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\52da57d50a0cf050f5bef9ba2968ea40\transformed\jetified-ucr-analytics-4.0.0\AndroidManifest.xml:10:5-67
@@ -168,11 +168,11 @@ MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\ca
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:10:5-67
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:10:5-67
 	android:name
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:7:5-79
-MERGED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
-MERGED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
+ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
+MERGED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-79
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8cc576fbd60425527e65fde914453daf\transformed\jetified-sdk-core-4.0.0\AndroidManifest.xml:12:5-79
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8cc576fbd60425527e65fde914453daf\transformed\jetified-sdk-core-4.0.0\AndroidManifest.xml:12:5-79
 MERGED from [com.github.AnchorFree.hydra-vpn-android:networking:d8dd1f8] C:\Users\Administrator\.gradle\caches\transforms-3\d3b0e9dc8d4caa02023db842f48603df\transformed\jetified-networking-d8dd1f8\AndroidManifest.xml:11:5-79
@@ -194,11 +194,11 @@ MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\ca
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:9:5-79
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:7:22-76
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:8:5-76
-MERGED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-76
-MERGED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-76
+ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:8:5-76
+MERGED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-76
+MERGED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-76
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8cc576fbd60425527e65fde914453daf\transformed\jetified-sdk-core-4.0.0\AndroidManifest.xml:10:5-76
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8cc576fbd60425527e65fde914453daf\transformed\jetified-sdk-core-4.0.0\AndroidManifest.xml:10:5-76
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\52da57d50a0cf050f5bef9ba2968ea40\transformed\jetified-ucr-analytics-4.0.0\AndroidManifest.xml:9:5-76
@@ -208,17 +208,17 @@ MERGED from [com.github.AnchorFree.hydra-vpn-android:networking:d8dd1f8] C:\User
 MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:23:5-76
 MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:23:5-76
 	android:name
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:8:22-73
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:8:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:9:5-76
-MERGED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-76
-MERGED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-76
+ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:9:5-76
+MERGED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-76
+MERGED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-76
 	android:name
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:9:22-73
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:9:22-73
 application
-ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:11:5-43:19
-MERGED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-31:19
-MERGED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-31:19
+ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:11:5-43:19
+MERGED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-31:19
+MERGED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-31:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Administrator\.gradle\caches\transforms-3\914fc250e4d274ee911c639ce2f41aa0\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Administrator\.gradle\caches\transforms-3\914fc250e4d274ee911c639ce2f41aa0\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Administrator\.gradle\caches\transforms-3\65064e1c7182490c1d150b9b76a560b7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -330,73 +330,73 @@ MERGED from [com.github.AnchorFree.hydra-vpn-android:aar-hydra:d8dd1f8] C:\Users
 MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\Administrator\.gradle\caches\transforms-3\20479aae60f101436cca46bf8924b41b\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\Administrator\.gradle\caches\transforms-3\20479aae60f101436cca46bf8924b41b\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:11:5-20
 	android:roundIcon
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:19:9-54
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:19:9-54
 	android:icon
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:17:9-43
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:17:9-43
 	android:networkSecurityConfig
 		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8cc576fbd60425527e65fde914453daf\transformed\jetified-sdk-core-4.0.0\AndroidManifest.xml:16:9-81
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\Administrator\.gradle\caches\transforms-3\a4ae05107f26ff45fd4516a72142df02\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:20:9-35
 	android:label
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:18:9-41
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:18:9-41
 	android:hardwareAccelerated
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:16:9-43
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:16:9-43
 	android:fullBackupContent
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:15:9-54
 	tools:targetApi
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:23:9-29
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:23:9-29
 	android:allowBackup
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:21:9-48
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:21:9-48
 	android:dataExtractionRules
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:14:9-65
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:14:9-65
 	android:usesCleartextTraffic
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:22:9-44
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:22:9-44
 	android:name
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:12:9-56
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:12:9-56
 activity#com.appzoneinfotech.ad.TestingActivity
-ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:25:9-27:40
+ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:25:9-27:40
 	android:exported
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:27:13-37
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:26:13-66
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:26:13-66
 activity#com.appzoneinfotech.ad.MainActivity
-ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:28:9-30:40
+ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:28:9-30:40
 	android:exported
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:30:13-37
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:29:13-63
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:29:13-63
 activity#com.appzoneinfotech.ad.AdsCode.ExitScreen
-ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:31:9-33:40
+ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:31:9-33:40
 	android:exported
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:33:13-37
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:32:13-69
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:32:13-69
 activity#com.appzoneinfotech.ad.AdsCode.SplashActivity
-ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:34:9-41:20
+ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:34:9-41:20
 	android:exported
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:36:13-36
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:36:13-36
 	android:name
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:35:13-73
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:35:13-73
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:37:13-40:29
+ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:37:13-40:29
 action#android.intent.action.MAIN
-ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:38:17-69
+ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:38:17-69
 	android:name
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:38:25-66
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:38:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:39:17-77
+ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:39:17-77
 	android:name
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:39:27-74
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:39:27-74
 uses-sdk
-INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
-INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
-MERGED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
+INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
+MERGED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Administrator\.gradle\caches\transforms-3\914fc250e4d274ee911c639ce2f41aa0\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Administrator\.gradle\caches\transforms-3\914fc250e4d274ee911c639ce2f41aa0\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Administrator\.gradle\caches\transforms-3\65064e1c7182490c1d150b9b76a560b7\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
@@ -643,20 +643,20 @@ MERGED from [com.github.AnchorFreePartner:ReLinker:1.3.2] C:\Users\Administrator
 MERGED from [com.github.AnchorFreePartner:ReLinker:1.3.2] C:\Users\Administrator\.gradle\caches\transforms-3\d2d3b46d63f3ed1bbac2a938d9bca93d\transformed\jetified-ReLinker-1.3.2\AndroidManifest.xml:5:5-43
 MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\Administrator\.gradle\caches\transforms-3\20479aae60f101436cca46bf8924b41b\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\Administrator\.gradle\caches\transforms-3\20479aae60f101436cca46bf8924b41b\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:7:5-9:41
-INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
-INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
+INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
+INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.google.android.gms:play-services-ads:21.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\ade70e4d2e6b6608586033f08e9f873a\transformed\jetified-play-services-ads-21.3.0\AndroidManifest.xml:23:9-49
 	android:targetSdkVersion
-		INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
-		ADDED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
+		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
 uses-permission#com.google.android.gms.permission.AD_ID
-ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-79
+ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:21.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\22588de505df557130b8b9d81dce8520\transformed\jetified-play-services-ads-lite-21.3.0\AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:21.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\22588de505df557130b8b9d81dce8520\transformed\jetified-play-services-ads-lite-21.3.0\AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\f6d115a6c2699221e9085629a0da2796\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
@@ -668,45 +668,45 @@ MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\ca
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:11:5-79
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-76
+		ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-76
 uses-permission#android.permission.Ad_ID
-ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-64
+ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-64
 	android:name
-		ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:22-61
+		ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:22-61
 uses-permission#android.permission.BLUETOOTH
-ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-68
+ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-68
 	android:name
-		ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:22-65
+		ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:22-65
 activity#com.appzone.mylibrarys.UpdateAppActivity
-ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-77
+ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-77
 	android:name
-		ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:19-74
+		ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:19-74
 activity#com.appzone.mylibrarys.SplashHelp
-ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-70
+ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-70
 	android:name
-		ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:19-67
+		ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:19-67
 activity#com.appzone.mylibrarys.CustomAdsInterActivity
-ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-82
+ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-82
 	android:name
-		ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:19-79
+		ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:19-79
 meta-data#com.google.android.gms.ads.AD_MANAGER_APP
-ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-24:36
+ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-24:36
 	android:value
-		ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-33
+		ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-33
 	android:name
-		ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-69
+		ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-69
 meta-data#applovin.sdk.key
-ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-27:118
+ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-27:118
 	android:value
-		ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-115
+		ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-115
 	android:name
-		ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-44
+		ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-44
 meta-data#applovin.sdk.verbose_logging
-ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-30:36
+ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-30:36
 	android:value
-		ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-33
+		ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-33
 	android:name
-		ADDED from [:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-56
+		ADDED from [:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-56
 meta-data#unified.sdk.config.vpn.hydra
 ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:hydra:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\adfbb906858a2e918fcd586d10248b8e\transformed\jetified-hydra-4.0.0\AndroidManifest.xml:10:9-12:56
 	android:resource

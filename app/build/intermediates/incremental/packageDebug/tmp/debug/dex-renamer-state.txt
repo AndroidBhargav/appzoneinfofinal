@@ -1,4 +1,4 @@
-#Sat Mar 04 19:57:17 IST 2023
+#Sat Mar 04 22:07:14 IST 2023
 path.4=9/classes.dex
 path.3=5/classes.dex
 path.2=0/classes.dex
@@ -7,19 +7,19 @@ path.7=0/classes2.dex
 path.6=classes3.dex
 path.5=classes2.dex
 path.0=classes.dex
-base.4=D\:\\Simple Code\\VPN\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.3=D\:\\Simple Code\\VPN\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
-base.2=D\:\\Simple Code\\VPN\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.1=D\:\\Simple Code\\VPN\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
-base.0=D\:\\Simple Code\\VPN\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.4=D\:\\gitcode\\appzoneinfofinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.3=D\:\\gitcode\\appzoneinfofinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.2=D\:\\gitcode\\appzoneinfofinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=D\:\\gitcode\\appzoneinfofinal\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.0=D\:\\gitcode\\appzoneinfofinal\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 renamed.7=classes8.dex
 renamed.6=classes7.dex
-base.7=D\:\\Simple Code\\VPN\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes2.dex
+base.7=D\:\\gitcode\\appzoneinfofinal\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes2.dex
 renamed.5=classes6.dex
-base.6=D\:\\Simple Code\\VPN\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
+base.6=D\:\\gitcode\\appzoneinfofinal\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
 renamed.4=classes5.dex
-base.5=D\:\\Simple Code\\VPN\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.5=D\:\\gitcode\\appzoneinfofinal\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex

@@ -43,12 +43,12 @@ com.appzoneinfotech.ad.app-work-runtime-ktx-2.8.0-alpha02-41 C:\Users\Administra
 com.appzoneinfotech.ad.app-jetified-appcompat-resources-1.4.2-42 C:\Users\Administrator\.gradle\caches\transforms-3\ed2a0fc53b7efcf77233ca9f84d56dc0\transformed\jetified-appcompat-resources-1.4.2\res
 com.appzoneinfotech.ad.app-appcompat-1.4.2-43 C:\Users\Administrator\.gradle\caches\transforms-3\f75475b21ec437e2344288b0b37db235\transformed\appcompat-1.4.2\res
 com.appzoneinfotech.ad.app-jetified-service-d8dd1f8-44 C:\Users\Administrator\.gradle\caches\transforms-3\fa6f7257a4f0af58c927909c1df009ec\transformed\jetified-service-d8dd1f8\res
-com.appzoneinfotech.ad.app-pngs-45 D:\Simple Code\VPN\app\build\generated\res\pngs\debug
-com.appzoneinfotech.ad.app-resValues-46 D:\Simple Code\VPN\app\build\generated\res\resValues\debug
-com.appzoneinfotech.ad.app-rs-47 D:\Simple Code\VPN\app\build\generated\res\rs\debug
-com.appzoneinfotech.ad.app-packageDebugResources-48 D:\Simple Code\VPN\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.appzoneinfotech.ad.app-packageDebugResources-49 D:\Simple Code\VPN\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.appzoneinfotech.ad.app-merged_res-50 D:\Simple Code\VPN\app\build\intermediates\merged_res\debug
-com.appzoneinfotech.ad.app-debug-51 D:\Simple Code\VPN\app\src\debug\res
-com.appzoneinfotech.ad.app-main-52 D:\Simple Code\VPN\app\src\main\res
-com.appzoneinfotech.ad.app-packaged_res-53 D:\Simple Code\VPN\mylibrarys\build\intermediates\packaged_res\debug
+com.appzoneinfotech.ad.app-pngs-45 D:\gitcode\appzoneinfofinal\app\build\generated\res\pngs\debug
+com.appzoneinfotech.ad.app-resValues-46 D:\gitcode\appzoneinfofinal\app\build\generated\res\resValues\debug
+com.appzoneinfotech.ad.app-rs-47 D:\gitcode\appzoneinfofinal\app\build\generated\res\rs\debug
+com.appzoneinfotech.ad.app-packageDebugResources-48 D:\gitcode\appzoneinfofinal\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.appzoneinfotech.ad.app-packageDebugResources-49 D:\gitcode\appzoneinfofinal\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.appzoneinfotech.ad.app-merged_res-50 D:\gitcode\appzoneinfofinal\app\build\intermediates\merged_res\debug
+com.appzoneinfotech.ad.app-debug-51 D:\gitcode\appzoneinfofinal\app\src\debug\res
+com.appzoneinfotech.ad.app-main-52 D:\gitcode\appzoneinfofinal\app\src\main\res
+com.appzoneinfotech.ad.app-packaged_res-53 D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\packaged_res\debug

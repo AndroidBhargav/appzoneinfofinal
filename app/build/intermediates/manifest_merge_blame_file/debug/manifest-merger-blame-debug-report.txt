@@ -6,31 +6,31 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
+8-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml
+9-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:6:5-67
-11-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:6:22-64
+11-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:6:5-67
+11-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:6:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:7:5-79
-12-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:7:22-76
+12-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:7:5-79
+12-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:7:22-76
 13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-13-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:8:5-76
-13-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:8:22-73
+13-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:8:5-76
+13-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:8:22-73
 14    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
-14-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:9:5-76
-14-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:9:22-73
+14-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:9:5-76
+14-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:9:22-73
 15    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-15-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-79
-15-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-76
+15-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-79
+15-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-76
 16    <uses-permission android:name="android.permission.Ad_ID" />
-16-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-64
-16-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:22-61
+16-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-64
+16-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:22-61
 17    <uses-permission android:name="android.permission.BLUETOOTH" />
-17-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-68
-17-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:22-65
+17-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-68
+17-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:22-65
 18    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
 18-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8cc576fbd60425527e65fde914453daf\transformed\jetified-sdk-core-4.0.0\AndroidManifest.xml:13:5-77
 18-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8cc576fbd60425527e65fde914453daf\transformed\jetified-sdk-core-4.0.0\AndroidManifest.xml:13:22-74
@@ -87,97 +87,97 @@
 43-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:20:22-93
 44
 45    <application
-45-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:11:5-43:19
+45-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:11:5-43:19
 46        android:name="com.appzone.mylibrarys.MyHelpers"
-46-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:12:9-56
+46-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:12:9-56
 47        android:allowBackup="true"
-47-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:13:9-35
+47-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:13:9-35
 48        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 48-->[androidx.core:core:1.7.0] C:\Users\Administrator\.gradle\caches\transforms-3\a4ae05107f26ff45fd4516a72142df02\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 49        android:dataExtractionRules="@xml/data_extraction_rules"
-49-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:14:9-65
+49-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:14:9-65
 50        android:debuggable="true"
 51        android:fullBackupContent="@xml/backup_rules"
-51-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:15:9-54
+51-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:15:9-54
 52        android:hardwareAccelerated="true"
-52-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:16:9-43
+52-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:16:9-43
 53        android:icon="@mipmap/ic_launcher"
-53-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:17:9-43
+53-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:17:9-43
 54        android:label="@string/app_name"
-54-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:18:9-41
+54-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:18:9-41
 55        android:networkSecurityConfig="@xml/sdk_captive_portal_network_security"
 55-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8cc576fbd60425527e65fde914453daf\transformed\jetified-sdk-core-4.0.0\AndroidManifest.xml:16:9-81
 56        android:roundIcon="@mipmap/ic_launcher_round"
-56-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:19:9-54
+56-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:19:9-54
 57        android:supportsRtl="true"
-57-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:20:9-35
+57-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:20:9-35
 58        android:theme="@style/Theme.AdsProject"
-58-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:21:9-48
+58-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:21:9-48
 59        android:usesCleartextTraffic="true" >
-59-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:22:9-44
+59-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:22:9-44
 60        <activity
-60-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:25:9-27:40
+60-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:25:9-27:40
 61            android:name="com.appzoneinfotech.ad.TestingActivity"
-61-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:26:13-66
+61-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:26:13-66
 62            android:exported="false" />
-62-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:27:13-37
+62-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:27:13-37
 63        <activity
-63-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:28:9-30:40
+63-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:28:9-30:40
 64            android:name="com.appzoneinfotech.ad.MainActivity"
-64-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:29:13-63
+64-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:29:13-63
 65            android:exported="false" />
-65-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:30:13-37
+65-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:30:13-37
 66        <activity
-66-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:31:9-33:40
+66-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:31:9-33:40
 67            android:name="com.appzoneinfotech.ad.AdsCode.ExitScreen"
-67-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:32:13-69
+67-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:32:13-69
 68            android:exported="false" />
-68-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:33:13-37
+68-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:33:13-37
 69        <activity
-69-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:34:9-41:20
+69-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:34:9-41:20
 70            android:name="com.appzoneinfotech.ad.AdsCode.SplashActivity"
-70-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:35:13-73
+70-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:35:13-73
 71            android:exported="true" >
-71-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:36:13-36
+71-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:36:13-36
 72            <intent-filter>
-72-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:37:13-40:29
+72-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:37:13-40:29
 73                <action android:name="android.intent.action.MAIN" />
-73-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:38:17-69
-73-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:38:25-66
+73-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:38:17-69
+73-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:38:25-66
 74
 75                <category android:name="android.intent.category.LAUNCHER" />
-75-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:39:17-77
-75-->D:\Simple Code\VPN\app\src\main\AndroidManifest.xml:39:27-74
+75-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:39:17-77
+75-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:39:27-74
 76            </intent-filter>
 77        </activity>
 78        <activity android:name="com.appzone.mylibrarys.UpdateAppActivity" />
-78-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-77
-78-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:19-74
+78-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-77
+78-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:19-74
 79        <activity android:name="com.appzone.mylibrarys.SplashHelp" />
-79-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-70
-79-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:19-67
+79-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-70
+79-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:19-67
 80        <activity android:name="com.appzone.mylibrarys.CustomAdsInterActivity" />
-80-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-82
-80-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:19-79
+80-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-82
+80-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:19-79
 81
 82        <meta-data
-82-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-24:36
+82-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-24:36
 83            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
-83-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-69
+83-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-69
 84            android:value="true" />
-84-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-33
+84-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-33
 85        <meta-data
-85-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-27:118
+85-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-27:118
 86            android:name="applovin.sdk.key"
-86-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-44
+86-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-44
 87            android:value="k5Sz10KaUibR939alqA1zPlTrXqQRlCyC6L_yIcr9Hhbl1y004whkL4rJ4ZSbdwH1Lu748pawbdo5N_p2fXJFf" />
-87-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-115
+87-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-115
 88        <meta-data
-88-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-30:36
+88-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-30:36
 89            android:name="applovin.sdk.verbose_logging"
-89-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-56
+89-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-56
 90            android:value="true" />
-90-->[:mylibrarys] D:\Simple Code\VPN\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-33
+90-->[:mylibrarys] D:\gitcode\appzoneinfofinal\mylibrarys\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-33
 91        <meta-data
 91-->[com.github.AnchorFreePartner.hydra-sdk-android:hydra:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\adfbb906858a2e918fcd586d10248b8e\transformed\jetified-hydra-4.0.0\AndroidManifest.xml:10:9-12:56
 92            android:name="unified.sdk.config.vpn.hydra"
