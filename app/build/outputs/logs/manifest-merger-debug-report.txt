@@ -110,7 +110,7 @@ MERGED from [com.github.AnchorFree.hydra-vpn-android:dns:d8dd1f8] C:\Users\Admin
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:celpher:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\47e9f865f003b76de3d60504ae947fe4\transformed\jetified-celpher-4.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.github.AnchorFree.hydra-vpn-android:logger:d8dd1f8] C:\Users\Administrator\.gradle\caches\transforms-3\2263206f617e3574fdd57b5e016fb06b\transformed\jetified-logger-d8dd1f8\AndroidManifest.xml:2:1-9:12
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-compat:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8613db4106a6b4b85c6e7eb93bb05bfd\transformed\jetified-sdk-compat-4.0.0\AndroidManifest.xml:2:1-12:12
-MERGED from [com.github.AnchorFreePartner:Bolts-Android:1.4.2] C:\Users\Administrator\.gradle\caches\transforms-3\769de9718e1709bef7a6e3c3b44fd741\transformed\jetified-Bolts-Android-1.4.2\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.AnchorFreePartner:Bolts-Android:1.4.2] C:\Users\Administrator\.gradle\caches\transforms-3\d017568396930a267a1a12f767d59f45\transformed\jetified-Bolts-Android-1.4.2\AndroidManifest.xml:2:1-12:12
 MERGED from [com.github.AnchorFree.hydra-vpn-android:reporting-constants:d8dd1f8] C:\Users\Administrator\.gradle\caches\transforms-3\f30d23d390a36e5e5b8985e53c2ab836\transformed\jetified-reporting-constants-d8dd1f8\AndroidManifest.xml:2:1-9:12
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:observable:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\85b84edf2692a9a7ed95775fd8b34060\transformed\jetified-observable-4.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\2fc21c62674aa4f1dceb8b7edc822965\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -121,7 +121,7 @@ MERGED from [androidx.sqlite:sqlite-framework:2.3.0-alpha02] C:\Users\Administra
 MERGED from [androidx.sqlite:sqlite:2.3.0-alpha02] C:\Users\Administrator\.gradle\caches\transforms-3\60fed21223e610750d583df60ff25dd7\transformed\sqlite-2.3.0-alpha02\AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:elite-trust:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\873b9ede55ec063e8cf8f4433cd53fe3\transformed\jetified-elite-trust-4.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\2fb81da48d7388acb45f572248f79ec9\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:2:1-100:12
+MERGED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:2:1-100:12
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:2:1-36:12
 MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-3\a7a1d4a5ac1cf5f856ff78640dc6c179\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.AnchorFree.hydra-vpn-android:aar-hydra:d8dd1f8] C:\Users\Administrator\.gradle\caches\transforms-3\bef12a728a1c239ae056af9034806b5f\transformed\jetified-aar-hydra-d8dd1f8\AndroidManifest.xml:2:1-12:12
@@ -163,8 +163,8 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\Administrator\.gradle\caches\transforms-3\f4a80d17bb3c1fc5949381c3f5641694\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
 MERGED from [com.criteo.publisher:criteo-publisher-sdk:4.4.0] C:\Users\Administrator\.gradle\caches\transforms-3\d5b719aeb6d221f01b8732a96171365d\transformed\jetified-criteo-publisher-sdk-4.4.0\AndroidManifest.xml:11:5-67
 MERGED from [com.criteo.publisher:criteo-publisher-sdk:4.4.0] C:\Users\Administrator\.gradle\caches\transforms-3\d5b719aeb6d221f01b8732a96171365d\transformed\jetified-criteo-publisher-sdk-4.4.0\AndroidManifest.xml:11:5-67
-MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:17:5-67
-MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:17:5-67
+MERGED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:17:5-67
+MERGED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:17:5-67
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:10:5-67
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:10:5-67
 	android:name
@@ -189,8 +189,8 @@ MERGED from [com.criteo.publisher:criteo-publisher-sdk:4.4.0] C:\Users\Administr
 MERGED from [com.criteo.publisher:criteo-publisher-sdk:4.4.0] C:\Users\Administrator\.gradle\caches\transforms-3\d5b719aeb6d221f01b8732a96171365d\transformed\jetified-criteo-publisher-sdk-4.4.0\AndroidManifest.xml:12:5-79
 MERGED from [com.github.AnchorFree.hydra-vpn-android:dns:d8dd1f8] C:\Users\Administrator\.gradle\caches\transforms-3\d72ab0aa12fdeab21d05c6884bfd3f79\transformed\jetified-dns-d8dd1f8\AndroidManifest.xml:9:5-79
 MERGED from [com.github.AnchorFree.hydra-vpn-android:dns:d8dd1f8] C:\Users\Administrator\.gradle\caches\transforms-3\d72ab0aa12fdeab21d05c6884bfd3f79\transformed\jetified-dns-d8dd1f8\AndroidManifest.xml:9:5-79
-MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:18:5-79
-MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:18:5-79
+MERGED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:18:5-79
+MERGED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:18:5-79
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:9:5-79
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:9:5-79
 	android:name
@@ -205,8 +205,8 @@ MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:4.0.0]
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\52da57d50a0cf050f5bef9ba2968ea40\transformed\jetified-ucr-analytics-4.0.0\AndroidManifest.xml:9:5-76
 MERGED from [com.github.AnchorFree.hydra-vpn-android:networking:d8dd1f8] C:\Users\Administrator\.gradle\caches\transforms-3\d3b0e9dc8d4caa02023db842f48603df\transformed\jetified-networking-d8dd1f8\AndroidManifest.xml:12:5-76
 MERGED from [com.github.AnchorFree.hydra-vpn-android:networking:d8dd1f8] C:\Users\Administrator\.gradle\caches\transforms-3\d3b0e9dc8d4caa02023db842f48603df\transformed\jetified-networking-d8dd1f8\AndroidManifest.xml:12:5-76
-MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:23:5-76
-MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:23:5-76
+MERGED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:23:5-76
+MERGED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:23:5-76
 	android:name
 		ADDED from D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:8:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
@@ -319,10 +319,10 @@ MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-events:4.0.0] C:
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-events:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\d95941984a35a2f09a970066f35da6cd\transformed\jetified-sdk-events-4.0.0\AndroidManifest.xml:9:5-10:19
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-compat:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8613db4106a6b4b85c6e7eb93bb05bfd\transformed\jetified-sdk-compat-4.0.0\AndroidManifest.xml:9:5-10:19
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-compat:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8613db4106a6b4b85c6e7eb93bb05bfd\transformed\jetified-sdk-compat-4.0.0\AndroidManifest.xml:9:5-10:19
-MERGED from [com.github.AnchorFreePartner:Bolts-Android:1.4.2] C:\Users\Administrator\.gradle\caches\transforms-3\769de9718e1709bef7a6e3c3b44fd741\transformed\jetified-Bolts-Android-1.4.2\AndroidManifest.xml:9:5-10:19
-MERGED from [com.github.AnchorFreePartner:Bolts-Android:1.4.2] C:\Users\Administrator\.gradle\caches\transforms-3\769de9718e1709bef7a6e3c3b44fd741\transformed\jetified-Bolts-Android-1.4.2\AndroidManifest.xml:9:5-10:19
-MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:25:5-98:19
-MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:25:5-98:19
+MERGED from [com.github.AnchorFreePartner:Bolts-Android:1.4.2] C:\Users\Administrator\.gradle\caches\transforms-3\d017568396930a267a1a12f767d59f45\transformed\jetified-Bolts-Android-1.4.2\AndroidManifest.xml:9:5-10:19
+MERGED from [com.github.AnchorFreePartner:Bolts-Android:1.4.2] C:\Users\Administrator\.gradle\caches\transforms-3\d017568396930a267a1a12f767d59f45\transformed\jetified-Bolts-Android-1.4.2\AndroidManifest.xml:9:5-10:19
+MERGED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:25:5-98:19
+MERGED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:25:5-98:19
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:13:5-34:19
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:13:5-34:19
 MERGED from [com.github.AnchorFree.hydra-vpn-android:aar-hydra:d8dd1f8] C:\Users\Administrator\.gradle\caches\transforms-3\bef12a728a1c239ae056af9034806b5f\transformed\jetified-aar-hydra-d8dd1f8\AndroidManifest.xml:9:5-10:19
@@ -607,8 +607,8 @@ MERGED from [com.github.AnchorFree.hydra-vpn-android:logger:d8dd1f8] C:\Users\Ad
 MERGED from [com.github.AnchorFree.hydra-vpn-android:logger:d8dd1f8] C:\Users\Administrator\.gradle\caches\transforms-3\2263206f617e3574fdd57b5e016fb06b\transformed\jetified-logger-d8dd1f8\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-compat:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8613db4106a6b4b85c6e7eb93bb05bfd\transformed\jetified-sdk-compat-4.0.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-compat:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8613db4106a6b4b85c6e7eb93bb05bfd\transformed\jetified-sdk-compat-4.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.AnchorFreePartner:Bolts-Android:1.4.2] C:\Users\Administrator\.gradle\caches\transforms-3\769de9718e1709bef7a6e3c3b44fd741\transformed\jetified-Bolts-Android-1.4.2\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.AnchorFreePartner:Bolts-Android:1.4.2] C:\Users\Administrator\.gradle\caches\transforms-3\769de9718e1709bef7a6e3c3b44fd741\transformed\jetified-Bolts-Android-1.4.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.AnchorFreePartner:Bolts-Android:1.4.2] C:\Users\Administrator\.gradle\caches\transforms-3\d017568396930a267a1a12f767d59f45\transformed\jetified-Bolts-Android-1.4.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.AnchorFreePartner:Bolts-Android:1.4.2] C:\Users\Administrator\.gradle\caches\transforms-3\d017568396930a267a1a12f767d59f45\transformed\jetified-Bolts-Android-1.4.2\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.AnchorFree.hydra-vpn-android:reporting-constants:d8dd1f8] C:\Users\Administrator\.gradle\caches\transforms-3\f30d23d390a36e5e5b8985e53c2ab836\transformed\jetified-reporting-constants-d8dd1f8\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.AnchorFree.hydra-vpn-android:reporting-constants:d8dd1f8] C:\Users\Administrator\.gradle\caches\transforms-3\f30d23d390a36e5e5b8985e53c2ab836\transformed\jetified-reporting-constants-d8dd1f8\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:observable:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\85b84edf2692a9a7ed95775fd8b34060\transformed\jetified-observable-4.0.0\AndroidManifest.xml:5:5-7:41
@@ -629,8 +629,8 @@ MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:elite-trust:4.0.0] C
 MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:elite-trust:4.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\873b9ede55ec063e8cf8f4433cd53fe3\transformed\jetified-elite-trust-4.0.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\2fb81da48d7388acb45f572248f79ec9\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\2fb81da48d7388acb45f572248f79ec9\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:7:5-9:41
-MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:7:5-9:41
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-3\a7a1d4a5ac1cf5f856ff78640dc6c179\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
@@ -663,8 +663,8 @@ MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\User
 MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\f6d115a6c2699221e9085629a0da2796\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\Administrator\.gradle\caches\transforms-3\f4a80d17bb3c1fc5949381c3f5641694\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\Administrator\.gradle\caches\transforms-3\f4a80d17bb3c1fc5949381c3f5641694\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:5-79
-MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:19:5-79
-MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:19:5-79
+MERGED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:19:5-79
+MERGED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:19:5-79
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:11:5-79
 MERGED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:11:5-79
 	android:name
@@ -880,8 +880,8 @@ queries
 ADDED from [com.facebook.android:audience-network-sdk:6.11.0] C:\Users\Administrator\.gradle\caches\transforms-3\ec8df281604de9d82525ba037a5ebe5c\transformed\jetified-audience-network-sdk-6.11.0\AndroidManifest.xml:11:5-13:15
 MERGED from [com.google.android.gms:play-services-ads-lite:21.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\22588de505df557130b8b9d81dce8520\transformed\jetified-play-services-ads-lite-21.3.0\AndroidManifest.xml:28:5-44:15
 MERGED from [com.google.android.gms:play-services-ads-lite:21.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\22588de505df557130b8b9d81dce8520\transformed\jetified-play-services-ads-lite-21.3.0\AndroidManifest.xml:28:5-44:15
-MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:11:5-15:15
-MERGED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:11:5-15:15
+MERGED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:11:5-15:15
+MERGED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:11:5-15:15
 package#com.facebook.katana
 ADDED from [com.facebook.android:audience-network-sdk:6.11.0] C:\Users\Administrator\.gradle\caches\transforms-3\ec8df281604de9d82525ba037a5ebe5c\transformed\jetified-audience-network-sdk-6.11.0\AndroidManifest.xml:12:9-55
 	android:name
@@ -1237,145 +1237,145 @@ ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\Administrator\.gradle\cac
 	android:name
 		ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\Administrator\.gradle\caches\transforms-3\81d65983bed221111e142d3f6e4e7c86\transformed\jetified-picasso-2.8\AndroidManifest.xml:9:13-64
 intent#action:name:com.applovin.am.intent.action.APPHUB_SERVICE
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:12:9-14:18
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:12:9-14:18
 action#com.applovin.am.intent.action.APPHUB_SERVICE
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:13:13-83
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:13:13-83
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:13:21-80
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:13:21-80
 uses-permission#com.applovin.array.apphub.permission.BIND_APPHUB_SERVICE
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:20:5-96
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:20:5-96
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:20:22-93
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:20:22-93
 provider#com.applovin.sdk.AppLovinInitProvider
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:26:9-30:39
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:26:9-30:39
 	android:authorities
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:28:13-72
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:28:13-72
 	android:exported
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:29:13-37
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:29:13-37
 	android:initOrder
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:30:13-36
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:30:13-36
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:27:13-65
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:27:13-65
 activity#com.applovin.adview.AppLovinFullscreenActivity
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:32:9-38:50
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:32:9-38:50
 	android:screenOrientation
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:38:13-47
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:38:13-47
 	android:launchMode
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:37:13-43
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:37:13-43
 	android:hardwareAccelerated
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:36:13-47
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:36:13-47
 	android:exported
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:35:13-37
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:35:13-37
 	android:configChanges
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:34:13-139
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:34:13-139
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:33:13-74
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:33:13-74
 activity#com.applovin.sdk.AppLovinWebViewActivity
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:39:9-41:142
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:39:9-41:142
 	android:configChanges
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:41:13-139
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:41:13-139
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:40:13-68
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:40:13-68
 activity#com.applovin.mediation.hybridAds.MaxHybridMRecAdActivity
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:44:9-46:142
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:44:9-46:142
 	android:configChanges
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:46:13-139
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:46:13-139
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:45:13-84
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:45:13-84
 activity#com.applovin.mediation.hybridAds.MaxHybridNativeAdActivity
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:47:9-49:142
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:47:9-49:142
 	android:configChanges
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:49:13-139
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:49:13-139
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:48:13-86
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:48:13-86
 activity#com.applovin.mediation.MaxDebuggerActivity
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:52:9-55:87
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:52:9-55:87
 	android:configChanges
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:54:13-139
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:54:13-139
 	android:theme
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:55:13-84
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:55:13-84
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:53:13-70
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:53:13-70
 activity#com.applovin.mediation.MaxDebuggerDetailActivity
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:56:9-59:87
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:56:9-59:87
 	android:configChanges
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:58:13-139
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:58:13-139
 	android:theme
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:59:13-84
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:59:13-84
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:57:13-76
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:57:13-76
 activity#com.applovin.mediation.MaxDebuggerMultiAdActivity
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:60:9-63:87
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:60:9-63:87
 	android:configChanges
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:62:13-139
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:62:13-139
 	android:theme
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:63:13-84
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:63:13-84
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:61:13-77
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:61:13-77
 activity#com.applovin.mediation.MaxDebuggerAdUnitsListActivity
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:64:9-67:87
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:64:9-67:87
 	android:configChanges
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:66:13-139
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:66:13-139
 	android:theme
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:67:13-84
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:67:13-84
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:65:13-81
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:65:13-81
 activity#com.applovin.mediation.MaxDebuggerAdUnitDetailActivity
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:68:9-71:87
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:68:9-71:87
 	android:configChanges
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:70:13-139
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:70:13-139
 	android:theme
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:71:13-84
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:71:13-84
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:69:13-82
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:69:13-82
 activity#com.applovin.mediation.MaxDebuggerTestLiveNetworkActivity
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:72:9-75:87
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:72:9-75:87
 	android:configChanges
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:74:13-139
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:74:13-139
 	android:theme
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:75:13-84
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:75:13-84
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:73:13-85
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:73:13-85
 activity#com.applovin.mediation.MaxDebuggerTestModeNetworkActivity
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:76:9-79:87
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:76:9-79:87
 	android:configChanges
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:78:13-139
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:78:13-139
 	android:theme
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:79:13-84
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:79:13-84
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:77:13-85
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:77:13-85
 activity#com.applovin.creative.MaxCreativeDebuggerActivity
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:80:9-83:91
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:80:9-83:91
 	android:configChanges
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:82:13-139
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:82:13-139
 	android:theme
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:83:13-88
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:83:13-88
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:81:13-77
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:81:13-77
 activity#com.applovin.creative.MaxCreativeDebuggerDisplayedAdActivity
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:84:9-87:91
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:84:9-87:91
 	android:configChanges
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:86:13-139
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:86:13-139
 	android:theme
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:87:13-88
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:87:13-88
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:85:13-88
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:85:13-88
 service#com.applovin.impl.sdk.utils.AppKilledService
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:90:9-93:44
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:90:9-93:44
 	android:exported
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:92:13-37
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:92:13-37
 	android:stopWithTask
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:93:13-41
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:93:13-41
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:91:13-72
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:91:13-72
 service#com.applovin.impl.adview.activity.FullscreenAdService
-ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:94:9-97:44
+ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:94:9-97:44
 	android:exported
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:96:13-37
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:96:13-37
 	android:stopWithTask
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:97:13-41
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:97:13-41
 	android:name
-		ADDED from [com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:95:13-81
+		ADDED from [com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:95:13-81
 activity#com.unity3d.services.ads.adunit.AdUnitActivity
 ADDED from [com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:14:9-18:74
 	android:hardwareAccelerated

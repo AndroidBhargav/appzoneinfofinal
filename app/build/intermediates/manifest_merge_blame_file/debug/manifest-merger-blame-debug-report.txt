@@ -69,10 +69,10 @@
 34-->[com.google.android.gms:play-services-ads-lite:21.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\22588de505df557130b8b9d81dce8520\transformed\jetified-play-services-ads-lite-21.3.0\AndroidManifest.xml:41:21-87
 35        </intent>
 36        <intent>
-36-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:12:9-14:18
+36-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:12:9-14:18
 37            <action android:name="com.applovin.am.intent.action.APPHUB_SERVICE" />
-37-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:13:13-83
-37-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:13:21-80
+37-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:13:13-83
+37-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:13:21-80
 38        </intent>
 39    </queries>
 40
@@ -83,8 +83,8 @@
 42-->[androidx.work:work-runtime:2.8.0-alpha02] C:\Users\Administrator\.gradle\caches\transforms-3\088c511f5eb33764d0819f0243247d6c\transformed\work-runtime-2.8.0-alpha02\AndroidManifest.xml:27:5-81
 42-->[androidx.work:work-runtime:2.8.0-alpha02] C:\Users\Administrator\.gradle\caches\transforms-3\088c511f5eb33764d0819f0243247d6c\transformed\work-runtime-2.8.0-alpha02\AndroidManifest.xml:27:22-78
 43    <uses-permission android:name="com.applovin.array.apphub.permission.BIND_APPHUB_SERVICE" />
-43-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:20:5-96
-43-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:20:22-93
+43-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:20:5-96
+43-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:20:22-93
 44
 45    <application
 45-->D:\gitcode\appzoneinfofinal\app\src\main\AndroidManifest.xml:11:5-43:19
@@ -638,135 +638,135 @@
 333            android:exported="false" />
 333-->[com.squareup.picasso:picasso:2.8] C:\Users\Administrator\.gradle\caches\transforms-3\81d65983bed221111e142d3f6e4e7c86\transformed\jetified-picasso-2.8\AndroidManifest.xml:11:13-37
 334        <provider
-334-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:26:9-30:39
+334-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:26:9-30:39
 335            android:name="com.applovin.sdk.AppLovinInitProvider"
-335-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:27:13-65
+335-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:27:13-65
 336            android:authorities="com.appzoneinfotech.ad.applovininitprovider"
-336-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:28:13-72
+336-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:28:13-72
 337            android:exported="false"
-337-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:29:13-37
+337-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:29:13-37
 338            android:initOrder="101" /> <!-- Init order is 101 so we're before Firebase/Google which uses 100 -->
-338-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:30:13-36
+338-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:30:13-36
 339        <activity
-339-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:32:9-38:50
+339-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:32:9-38:50
 340            android:name="com.applovin.adview.AppLovinFullscreenActivity"
-340-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:33:13-74
+340-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:33:13-74
 341            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-341-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:34:13-139
+341-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:34:13-139
 342            android:exported="false"
-342-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:35:13-37
+342-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:35:13-37
 343            android:hardwareAccelerated="true"
-343-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:36:13-47
+343-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:36:13-47
 344            android:launchMode="singleTop"
-344-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:37:13-43
+344-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:37:13-43
 345            android:screenOrientation="behind" />
-345-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:38:13-47
+345-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:38:13-47
 346        <activity
-346-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:39:9-41:142
+346-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:39:9-41:142
 347            android:name="com.applovin.sdk.AppLovinWebViewActivity"
-347-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:40:13-68
+347-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:40:13-68
 348            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" /> <!-- Hybrid Ad Activities -->
-348-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:41:13-139
+348-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:41:13-139
 349        <activity
-349-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:44:9-46:142
+349-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:44:9-46:142
 350            android:name="com.applovin.mediation.hybridAds.MaxHybridMRecAdActivity"
-350-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:45:13-84
+350-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:45:13-84
 351            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" />
-351-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:46:13-139
+351-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:46:13-139
 352        <activity
-352-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:47:9-49:142
+352-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:47:9-49:142
 353            android:name="com.applovin.mediation.hybridAds.MaxHybridNativeAdActivity"
-353-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:48:13-86
+353-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:48:13-86
 354            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" /> <!-- Mediation Debugger Activities -->
-354-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:49:13-139
+354-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:49:13-139
 355        <activity
-355-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:52:9-55:87
+355-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:52:9-55:87
 356            android:name="com.applovin.mediation.MaxDebuggerActivity"
-356-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:53:13-70
+356-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:53:13-70
 357            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-357-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:54:13-139
+357-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:54:13-139
 358            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
-358-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:55:13-84
+358-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:55:13-84
 359        <activity
-359-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:56:9-59:87
+359-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:56:9-59:87
 360            android:name="com.applovin.mediation.MaxDebuggerDetailActivity"
-360-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:57:13-76
+360-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:57:13-76
 361            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-361-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:58:13-139
+361-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:58:13-139
 362            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
-362-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:59:13-84
+362-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:59:13-84
 363        <activity
-363-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:60:9-63:87
+363-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:60:9-63:87
 364            android:name="com.applovin.mediation.MaxDebuggerMultiAdActivity"
-364-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:61:13-77
+364-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:61:13-77
 365            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-365-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:62:13-139
+365-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:62:13-139
 366            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
-366-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:63:13-84
+366-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:63:13-84
 367        <activity
-367-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:64:9-67:87
+367-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:64:9-67:87
 368            android:name="com.applovin.mediation.MaxDebuggerAdUnitsListActivity"
-368-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:65:13-81
+368-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:65:13-81
 369            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-369-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:66:13-139
+369-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:66:13-139
 370            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
-370-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:67:13-84
+370-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:67:13-84
 371        <activity
-371-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:68:9-71:87
+371-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:68:9-71:87
 372            android:name="com.applovin.mediation.MaxDebuggerAdUnitDetailActivity"
-372-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:69:13-82
+372-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:69:13-82
 373            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-373-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:70:13-139
+373-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:70:13-139
 374            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
-374-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:71:13-84
+374-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:71:13-84
 375        <activity
-375-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:72:9-75:87
+375-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:72:9-75:87
 376            android:name="com.applovin.mediation.MaxDebuggerTestLiveNetworkActivity"
-376-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:73:13-85
+376-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:73:13-85
 377            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-377-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:74:13-139
+377-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:74:13-139
 378            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
-378-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:75:13-84
+378-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:75:13-84
 379        <activity
-379-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:76:9-79:87
+379-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:76:9-79:87
 380            android:name="com.applovin.mediation.MaxDebuggerTestModeNetworkActivity"
-380-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:77:13-85
+380-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:77:13-85
 381            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-381-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:78:13-139
+381-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:78:13-139
 382            android:theme="@style/com.applovin.mediation.MaxDebuggerActivity.Theme" />
-382-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:79:13-84
+382-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:79:13-84
 383        <activity
-383-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:80:9-83:91
+383-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:80:9-83:91
 384            android:name="com.applovin.creative.MaxCreativeDebuggerActivity"
-384-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:81:13-77
+384-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:81:13-77
 385            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-385-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:82:13-139
+385-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:82:13-139
 386            android:theme="@style/com.applovin.creative.CreativeDebuggerActivity.Theme" />
-386-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:83:13-88
+386-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:83:13-88
 387        <activity
-387-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:84:9-87:91
+387-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:84:9-87:91
 388            android:name="com.applovin.creative.MaxCreativeDebuggerDisplayedAdActivity"
-388-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:85:13-88
+388-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:85:13-88
 389            android:configChanges="fontScale|keyboard|keyboardHidden|locale|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-389-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:86:13-139
+389-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:86:13-139
 390            android:theme="@style/com.applovin.creative.CreativeDebuggerActivity.Theme" /> <!-- Services -->
-390-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:87:13-88
+390-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:87:13-88
 391        <service
-391-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:90:9-93:44
+391-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:90:9-93:44
 392            android:name="com.applovin.impl.sdk.utils.AppKilledService"
-392-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:91:13-72
+392-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:91:13-72
 393            android:exported="false"
-393-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:92:13-37
+393-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:92:13-37
 394            android:stopWithTask="false" />
-394-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:93:13-41
+394-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:93:13-41
 395        <service
-395-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:94:9-97:44
+395-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:94:9-97:44
 396            android:name="com.applovin.impl.adview.activity.FullscreenAdService"
-396-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:95:13-81
+396-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:95:13-81
 397            android:exported="false"
-397-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:96:13-37
+397-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:96:13-37
 398            android:stopWithTask="false" />
-398-->[com.applovin:applovin-sdk:11.8.1] C:\Users\Administrator\.gradle\caches\transforms-3\5989aca0b4ecf09d70bec5b5b2dbcd32\transformed\jetified-applovin-sdk-11.8.1\AndroidManifest.xml:97:13-41
+398-->[com.applovin:applovin-sdk:11.8.2] C:\Users\Administrator\.gradle\caches\transforms-3\1ddb0db66e0f657c6b9bf80d3f2e8cd5\transformed\jetified-applovin-sdk-11.8.2\AndroidManifest.xml:97:13-41
 399
 400        <activity
 400-->[com.unity3d.ads:unity-ads:4.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b163479ce18dc71f42ad889fad5c6204\transformed\jetified-unity-ads-4.1.0\AndroidManifest.xml:14:9-18:74

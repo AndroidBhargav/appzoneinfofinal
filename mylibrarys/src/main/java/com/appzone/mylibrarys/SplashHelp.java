@@ -533,11 +533,7 @@ public class SplashHelp extends AppCompatActivity {
                 BaseActivity.vpn_connection((Activity) contextx, new BaseActivity.vpn_callback() {
                     @Override
                     public void vpn_final_callback(String s) {
-                        if (s.equals("success")) {
-                            ShowADS();
-                        } else {
-                            ShowADS();
-                        }
+                        ShowADS();
                     }
                 });
             }
